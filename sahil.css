@@ -4,11 +4,28 @@
 
 }
 .navbar{
-    padding: 8px;
-    margin: 0;
-    font-size: 30px;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 50px;
     background-color: #333;
     color: #f7f5f5;
+    text-decoration: #f7f5f5;
+    text-transform: uppercase;
+}
+.navbar ul{ 
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.navbar li{
+    display: inline-block;
+    margin-right: 130px;
+}
+.navbar a{
+    color: azure;
+    text-decoration: none;
+    padding: 30;
 }
 .neuzuko{
     font: size 100px;;
