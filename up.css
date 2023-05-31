@@ -2,8 +2,30 @@
     margin: 0%;
     padding: 0;
 }
-.sahil{
-    background-color: #333;
-    text-align: center;
-    color: aliceblue;
+.ram{
+margin: 0;
+padding: 30px;
+background-color: black;
+color: aliceblue;
+font-size: 40px;
 }
+.ram a{
+    color: aliceblue;
+padding: 20px;
+text-decoration: none;
+
+}
+.ram li{
+    display: inline-block;
+    margin-right: 120px;
+}
+.ram ul{
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.lol{ margin-left: 280px;
+    font-size: 90px;
+
+ }
